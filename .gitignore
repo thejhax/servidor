@@ -10,7 +10,6 @@ composer.*
 java/
 *.exe
 *.msi
-*.txt
 *.pyc
 *.msp
 *.msx
