@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "6608b3db-1040-375f-a867-f882098bdcce",
+    "name": "josepcmp",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e2cdd814-3859-38c5-b5b4-ca4f751073b0",
+    "name": "josephCMP",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
